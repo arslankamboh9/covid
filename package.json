@@ -1,0 +1,17 @@
+{
+  "name": "covidapp",
+  "version": "1.0.0",
+  "description": "covid application trough jquery ajax method",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass":"node-sass sass/style.scss css/style.css"
+  },
+  "author": "Arslan",
+  "license": "ISC",
+  "devDependencies": {
+    "npm-sass": "^2.3.0"
+  },
+  "dependencies": {
+    "jquery": "^3.6.0"
+  }
+}
